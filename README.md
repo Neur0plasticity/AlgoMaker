@@ -1,2 +1,2 @@
 # ChatGPTAlgorithmMaker
-ChatGPT assistant optimized for creating functions
+ChatGPT assistant optimized for creating algorithms
